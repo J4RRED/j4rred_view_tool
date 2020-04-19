@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+J4RREDViewTool::Renderer.copyright 'J4RRED', 'All rights reserved'
+```
 
 ## Development
 
